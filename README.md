@@ -1,28 +1,28 @@
 Servidor Transferencia 0.9
 ================================
 
-Aplicaci髇 desarrollada en Java que implementa un servidor de transferencia de ficheros mediante Sockets.
+Aplicaci贸n desarrollada en Java que implementa un servidor de transferencia de ficheros mediante Sockets.
 El programa permite al cliente recibir ficheros enviados desde el servidor de forma concurrente, siendo
-posible la conexi髇 de un n鷐ero indeterminado de estos a un mismo servidor.
+posible la conexi贸n de un n煤mero indeterminado de 茅stos a un mismo servidor.
 
-La aplicaci髇 habilita diferentes interfaces gr醘icas tanto para el cliente como para el servidor, posibilitando
-la selecci髇 m鷏tiple de varios ficheros a la vez, que ser醤 alojados en el directorio 'src/recursos/tmp' y 
-mostrados al cliente tras su posterior recepci髇.
+La aplicaci贸n habilita diferentes interfaces gr谩ficas tanto para el cliente como para el servidor, posibilitando
+la selecci贸n m煤ltiple de varios ficheros a la vez, que ser谩n alojados en el directorio 'src/recursos/tmp' y 
+mostrados al cliente tras su posterior recepci贸n.
 
-Para facilitar la puesta en marcha de la aplicaci髇 se proporcionan varios ejecutables '.jar' con el 
-proyecto construido y listo para ser ejecutado de manera gr醘ica.
+Para facilitar la puesta en marcha de la aplicaci贸n se proporcionan varios ejecutables '.jar' con el 
+proyecto construido y listo para ser ejecutado de manera gr谩fica.
 
 ## Requisitos
-- [Java] 7 o superior (para ejecutar la Aplicaci髇)
+- [Java] 7 o superior (para ejecutar la Aplicaci贸n)
 
 ## Entorno de desarrollo
-La Aplicaci髇 ha sido desarrollada utilizando el IDE [NetBeans] pero tambi閚 es posible su importanci髇 
-en [Eclipe] y dem醩 IDE's.
+La Aplicaci贸n ha sido desarrollada utilizando el IDE [NetBeans] pero tambi茅n es posible su importanci贸n 
+en [Eclipe] y dem谩s IDE's.
 
 ## Licencia
-Esta aplicaci髇 se ofrece bajo licencia [GPL versi髇 3].
+Esta aplicaci贸n se ofrece bajo licencia [GPL versi贸n 3].
 
-[GPL versi髇 3]: https://www.gnu.org/licenses/gpl-3.0.en.html
+[GPL versi贸n 3]: https://www.gnu.org/licenses/gpl-3.0.en.html
 [NetBeans]: https://netbeans.org/
 [Eclipe]: https://eclipse.org/
 [Java]: https://www.java.com/
