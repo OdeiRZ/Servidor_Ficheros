@@ -9,7 +9,7 @@ La aplicación habilita diferentes interfaces gráficas tanto para el cliente co
 la selección múltiple de varios ficheros a la vez, que serán alojados en el directorio 'src/recursos/tmp' y 
 mostrados al cliente tras su posterior recepción.
 
-Para facilitar la puesta en marcha de la aplicación se proporcionan varios ejecutables '.jar' con el 
+Para facilitar la puesta en marcha de la aplicación se proporcionan varios ejecutables .jar con el 
 proyecto construido y listo para ser ejecutado de manera gráfica.
 
 ## Requisitos
