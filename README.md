@@ -1,4 +1,4 @@
-Servidor Transferencia 0.9
+Servidor Ficheros 0.9
 ================================
 
 Aplicación desarrollada en Java que implementa un servidor de transferencia de ficheros mediante Sockets.
